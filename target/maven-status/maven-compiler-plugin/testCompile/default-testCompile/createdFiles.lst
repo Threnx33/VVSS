@@ -1,2 +1,9 @@
 tasks\services\DateServiceTest.class
+tasks\repository\ArrayTaskListTest.class
+tasks\integration\RepositoryIntegrationTest.class
 tasks\model\TaskTest.class
+tasks\integration\TaskIntegrationTest.class
+tasks\model\TaskTestMockito.class
+tasks\integration\ServiceIntegrationTest.class
+tasks\model\TasksOperationsTest.class
+tasks\services\TaskServiceTest.class
